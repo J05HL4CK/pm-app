@@ -1,0 +1,15 @@
+body {
+  background-color: #1c3c5c;
+}
+.project-card {
+  transition: background-color 0.5s ease;
+  &:hover {
+    background-color: #7591a73d;
+    
+  }
+}
+
+.card-header {
+  background-color:#45a7c5;
+  color: #262F36;
+}
